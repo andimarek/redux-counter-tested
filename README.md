@@ -7,8 +7,10 @@ For the jsdom component test see [Counter-test.js](https://github.com/andimarek/
 
 Run the tests with "npm test".
 
-Related blog posts:
+Inspiration for the jsdom test:
 
 http://www.asbjornenge.com/wwc/testing_react_components.html
+
+Thanks!
 
 
