@@ -1,7 +1,6 @@
 import {incrementIfOdd, increment, incrementAsync} from "../../actions/CounterActions";
 import {spy, useFakeTimers} from "sinon";
-import chai from "chai";
-let {expect} = chai;
+import chai, {expect} from "chai";
 import sinonChai from "sinon-chai";
 chai.use(sinonChai);
 
